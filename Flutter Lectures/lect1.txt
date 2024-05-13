@@ -1,0 +1,33 @@
+two types of classes 
+statelesss ==> state which does not change anything
+statefull ==> state which changes on clicks
+
+Stateless Widgets:
+
+
+important things to keep in mind:
+==> material design widgets (used for both ios and andriod)
+we get all the widgets from Material Design therefore we will return MaterialApp() widget in our initial class
+
+==> cubertino design for sometimes used for ios
+
+for complete screen we will use scaffold widget
+when we are design complete design then we will use scaffold widget
+
+
+sizedBox is used for spacing 
+container is used for decoration and for displaying text
+
+we use mainAxisAlignment(MA) and crossAxisAlignment(CA) is used for Alignments 
+
+Column 
+-MA(top to Bottom)
+-CA(left to Right)
+
+Row
+-MA(left to right)
+-CA(top to bottom)
+
+
+home work:
+Row Properties

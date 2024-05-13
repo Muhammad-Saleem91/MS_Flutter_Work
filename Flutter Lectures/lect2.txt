@@ -1,0 +1,7 @@
+margin : for outer spacing we use margin
+padding: for inner spacing we use padding
+
+adding image to the screen image 
+=> asset image
+
+=> network image

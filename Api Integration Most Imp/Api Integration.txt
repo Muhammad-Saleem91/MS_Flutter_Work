@@ -1,0 +1,27 @@
+if i want to create any data or add any thing it will be termed as 
+post in API.
+
+post() method will be used in API
+if i want to save this information.
+
+if i want to get that information we will use get method
+
+if i want to update any thing from the information put API will be used for that.
+
+if i want to remove ,delete Api will be used for this
+
+there are two types of API : public and private
+
+
+public API's :
+fake Api JSon placeholder
+
+packages:
+http
+dio
+
+
+api code:
+
+async
+await
